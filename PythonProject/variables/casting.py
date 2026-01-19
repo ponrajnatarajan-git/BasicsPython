@@ -1,7 +1,9 @@
 x="10"
 a=x
+c=100.12
 print(type(a))
 b=int(a)
 print(type(b))
 print(x)
 print(b)
+print(c,type(c))
