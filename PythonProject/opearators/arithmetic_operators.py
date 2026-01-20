@@ -7,3 +7,4 @@ print('Division of a/b',a/b)
 print(a//b) #floor
 print('Modules of a &b ',a%b)
 print(a**b) #15*15*15
+print('This is what all important  operations')
